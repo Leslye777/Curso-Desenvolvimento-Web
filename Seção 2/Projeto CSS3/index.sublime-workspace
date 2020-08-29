@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"au",
+				"aux2"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"aux",
+				"aux2"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
 				"te",
 				"text-decoration\tproperty"
 			],
@@ -12,16 +40,8 @@
 				"italico"
 			],
 			[
-				"fon",
-				"font-style\tproperty"
-			],
-			[
 				"font",
 				"font-family\tproperty"
-			],
-			[
-				"tex",
-				"texto2"
 			],
 			[
 				"fo",
@@ -160,10 +180,6 @@
 				"annual_returns"
 			],
 			[
-				"i",
-				"ITUB4"
-			],
-			[
 				"F",
 				"F"
 			],
@@ -178,10 +194,6 @@
 			[
 				"log",
 				"log_returnc"
-			],
-			[
-				"a",
-				"avg_return_d"
 			],
 			[
 				"x",
@@ -219,6 +231,40 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "\nvet=[]\n\ncontrol=1\n\nprint (\"preencha o vetor e digite 0 para sair\")\ni=0\nj=0\n\nwhile (control != 0):\n\tcontrol = input(\"digite algo\")\n\tif (control != 0):\n\t\tvet[i] = control \n\t\ti=1+1\n\nprint(vet)",
+			"file": "/home/leslye/Área de Trabalho/dojo.py",
+			"file_size": 39,
+			"file_write_time": 132427666272546046,
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix",
+				"name": "input"
+			}
+		},
+		{
+			"file": "/home/leslye/Área de Trabalho/dojoluiz.py",
+			"settings":
+			{
+				"buffer_size": 1074,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "lista = list()"
+			}
+		},
+		{
+			"contents": "#!/bin/bash\n\nwhile [ 1 ]; do \n    xdotool mousemove 1025 500 click 1 \n    sleep 1.5s\n    xdotool mousemove 1070 515 click 1 \n    sleep 1.5s \ndone\n\t\t\t\t\t",
+			"file": "/home/leslye/Área de Trabalho/auto-click.sh",
+			"file_size": 150,
+			"file_write_time": 132431020465076111,
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -252,6 +298,20 @@
 	},
 	"file_history":
 	[
+		"/home/leslye/Área de Trabalho/Python /GetStockPriceData.py",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/Projeto Anna Bela/contato.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/Projeto Anna Bela/estilo.css",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/Projeto Anna Bela/index.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/Projeto Anna Bela/biografia.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/Projeto Anna Bela/camp.html",
+		"/home/leslye/Curso Programação WEB/Seção 1/Projeto Final /quem-somos.html",
+		"/home/leslye/Curso Programação WEB/Seção 1/Aulas/index.html",
+		"/home/leslye/Curso Programação WEB/Seção 1/Aulas/projeto.html",
+		"/home/leslye/Curso Programação WEB/Seção 1/Projeto Final /contato.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/pagina1.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/pagina2.html",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/estilo.css",
+		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/estilo.csss",
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/bordas.sublime-workspace",
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/estilos_de_textos.html",
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/tamanhos_de_textos.html",
@@ -260,8 +320,6 @@
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/div_spam.html",
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/index.html",
 		"/home/leslye/Curso Programação WEB/Seção 2/Projeto CSS3/classes_ids.html",
-		"/home/leslye/Curso Programação WEB/Seção 1/Projeto Final /quem-somos.html",
-		"/home/leslye/Curso Programação WEB/Seção 1/Projeto Final /contato.html",
 		"/home/leslye/Curso Programação WEB/Seção 1/Projeto Final /index.html",
 		"/home/leslye/Curso Programação WEB/Seção 1/index.html",
 		"/home/leslye/Curso Programação WEB/Seção 1/projeto.html",
@@ -293,7 +351,6 @@
 		"/home/leslye/Área de Trabalho/srep035782.pdf",
 		"/home/leslye/Área de Trabalho/Python /RiscoDeUmAtivo.py",
 		"/home/leslye/Área de Trabalho/Python /TaxaDeRetornoCarteira.py",
-		"/home/leslye/Área de Trabalho/Python /GetStockPriceData.py",
 		"/home/leslye/TCC/StreamLiveTweets.py",
 		"/home/leslye/TCC/#variables that contain the user crendentials to a.py",
 		"/home/leslye/TCC/#variables that contain the user crendentials to a",
@@ -377,8 +434,97 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/leslye/Área de Trabalho/dojo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"auto_name": "input",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/leslye/Área de Trabalho/dojoluiz.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								806,
+								806
+							]
+						],
+						"settings":
+						{
+							"auto_name": "lista = list()",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/leslye/Área de Trabalho/auto-click.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -413,6 +559,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -459,7 +609,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 221.0,
+	"side_bar_width": 120.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
